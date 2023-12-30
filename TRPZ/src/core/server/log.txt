@@ -1,0 +1,5 @@
+Файл: \test\Word.docx, Ключевое слово: admin
+Файл: \test\some_test.txt, Ключевое слово: admin
+
+Файл: \test\Word.docx, Ключевое слово: try
+Файл: \test\some_test.txt, Ключевое слово: harosh
